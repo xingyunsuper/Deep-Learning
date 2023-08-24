@@ -4,20 +4,20 @@ Welcome to my collection of deep-learning projects! This repository showcases a 
 
 ## Project 1: Image Classifier
 
-### Objective
+#### Objective
 The objective of this project is to build an image classifier capable of identifying four different categories of images. The dataset comprises various training and test samples across these four categories. Each category's data consists of images that have been transformed through flips, rotations, or other alterations.
 
-### Tools/Models Used
+#### Tools/Models Used
 - Deep Convolutional Neural Networks
 - Image Augmentation
 - TensorFlow / PyTorch
 
 ## Project 2: Recurrent Neural Network & Classification
 
-### Objective
+#### Objective
 This project focuses on detecting security breaches by predicting suspicious access using a Recurrent Neural Network (RNN) model. It utilizes the provided Logfile data for training and testing.
 
-### Tools/Models Used
+#### Tools/Models Used
 - Recurrent Neural Networks (RNN)
 - Sequence-to-Sequence Learning
 - Python
@@ -25,10 +25,10 @@ This project focuses on detecting security breaches by predicting suspicious acc
 
 ## Project 3: Time Series with LSTMs
 
-### Objective
+#### Objective
 In this project, Long Short-Term Memory (LSTM) networks are employed to tackle time series data. The objective varies based on the specific dataset and use case, highlighting the versatility of LSTMs in modeling sequential data.
 
-### Tools/Models Used
+#### Tools/Models Used
 - Long Short-Term Memory (LSTM) Networks
 - Time Series Analysis
 - Pandas / NumPy
