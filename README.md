@@ -5,6 +5,7 @@ Welcome to my collection of deep-learning projects! This repository showcases a 
 ## Project 1: Image Classifier
 
 **Objective**
+
 The objective of this project is to build an image classifier capable of identifying four different categories of images. The dataset comprises various training and test samples across these four categories. Each category's data consists of images that have been transformed through flips, rotations, or other alterations.
 
 **Tools/Models Used**
@@ -15,6 +16,7 @@ The objective of this project is to build an image classifier capable of identif
 ## Project 2: Recurrent Neural Network & Classification
 
 **Objective**
+
 This project focuses on detecting security breaches by predicting suspicious access using a Recurrent Neural Network (RNN) model. It utilizes the provided Logfile data for training and testing.
 
 **Tools/Models Used**
@@ -26,6 +28,7 @@ This project focuses on detecting security breaches by predicting suspicious acc
 ## Project 3: Time Series with LSTMs
 
 **Objective**
+
 In this project, Long Short-Term Memory (LSTM) networks are employed to tackle time series data. The objective varies based on the specific dataset and use case, highlighting the versatility of LSTMs in modeling sequential data.
 
 **Tools/Models Used**
@@ -36,6 +39,7 @@ In this project, Long Short-Term Memory (LSTM) networks are employed to tackle t
 ## Project 4: Variational AutoEncoders (VAEs)
 
 **Objective**
+
 This project explores Variational AutoEncoders (VAEs) for image compression. VAEs are used to efficiently encode and decode images while preserving their essential features. The focus is on image compression with minimal loss of quality.
 
 **Tools/Models Used**
